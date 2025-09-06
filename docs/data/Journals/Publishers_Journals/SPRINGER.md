@@ -1016,6 +1016,12 @@ xychart-beta
     line [23, 23, 24, 25, 25, 24, 23, 25, 29, 36, 33, 25, 28, 30, 23, 33]
 ```
 
+## MIR
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[SPRINGER](https://www.springer.com/)|[Machine Intelligence Research](https://www.springer.com/journal/11633)|[Mach. Intell. Res.](https://www.springer.com/journal/11633/aims-and-scope)|[MIR](https://link.springer.com/journal/11633/volumes-and-issues)|2004 -|False||2||8.7|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+
 ## ML
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
