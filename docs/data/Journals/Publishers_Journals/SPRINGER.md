@@ -1,5 +1,7 @@
 # SPRINGER
 
+- The data for TOP, CCF, CAS, JCR, and IF are sourced from [easyScholar](https://www.easyscholar.cc/).
+
 ## AAMAS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
@@ -23,12 +25,6 @@ xychart-beta
     bar [16, 24, 20, 26, 17, 26, 26, 28, 31, 34, 33, 36, 34, 31, 30, 36, 40, 49, 25, 26, 56, 47, 53, 47, 51]
     line [16, 24, 20, 26, 17, 26, 26, 28, 31, 34, 33, 36, 34, 31, 30, 36, 40, 49, 25, 26, 56, 47, 53, 47, 51]
 ```
-
-## EVOLS
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
-|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SPRINGER](https://www.springer.com/)|[Evolving Systems](https://link.springer.com/journal/12530)|[Evol. Syst.](https://www.springer.com/journal/12530/aims-and-scope)|[EVOLS](https://link.springer.com/journal/12530/volumes-and-issues)|2010 -|False||4|Q3|2.8||
 
 ## AIL
 
@@ -389,6 +385,12 @@ xychart-beta
     bar [15, 18, 12, 16, 23, 9, 25, 13, 16, 3, 11, 50, 56, 121, 171, 137, 224]
     line [15, 18, 12, 16, 23, 9, 25, 13, 16, 3, 11, 50, 56, 121, 171, 137, 224]
 ```
+
+## EVOLS
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[SPRINGER](https://www.springer.com/)|[Evolving Systems](https://link.springer.com/journal/12530)|[Evol. Syst.](https://www.springer.com/journal/12530/aims-and-scope)|[EVOLS](https://link.springer.com/journal/12530/volumes-and-issues)|2010 -|False||4|Q3|2.8||
 
 ## FODM
 
