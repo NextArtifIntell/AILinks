@@ -24,6 +24,12 @@ xychart-beta
     line [7, 33, 9, 8, 7]
 ```
 
+## ACISC
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[WILEY](https://www.wiley.com/)|[Applied Computational Intelligence and Soft Computing](https://onlinelibrary.wiley.com/journal/4795)|[Appl. Comput. Intell. Soft Comput.](https://onlinelibrary.wiley.com/page/journal/4795/homepage/overview)|[ACISC](https://onlinelibrary.wiley.com/loi/4795)|2009 -|False||4||3.0|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+
 ## ADVS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
