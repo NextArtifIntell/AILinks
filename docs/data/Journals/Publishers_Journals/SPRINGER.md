@@ -392,6 +392,24 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[SPRINGER](https://www.springer.com/)|[Evolving Systems](https://link.springer.com/journal/12530)|[Evol. Syst.](https://www.springer.com/journal/12530/aims-and-scope)|[EVOLS](https://link.springer.com/journal/12530/volumes-and-issues)|2010 -|False||4|Q3|2.8||
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "EVOLS"
+    x-axis [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [20, 19, 21, 22, 24, 23, 22, 26, 26, 43, 53, 69, 56, 62, 131]
+    line [20, 19, 21, 22, 24, 23, 22, 26, 26, 43, 53, 69, 56, 62, 131]
+```
+
 ## FODM
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
@@ -1021,6 +1039,24 @@ xychart-beta
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[SPRINGER](https://www.springer.com/)|[Machine Intelligence Research](https://www.springer.com/journal/11633)|[Mach. Intell. Res.](https://www.springer.com/journal/11633/aims-and-scope)|[MIR](https://link.springer.com/journal/11633/volumes-and-issues)|2004 -|False||2||8.7|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "MIR"
+    x-axis [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [10, 27, 54, 55, 51, 58, 80, 62, 81, 69, 80, 72, 62, 64, 63, 63, 63, 76, 35, 59, 76]
+    line [10, 27, 54, 55, 51, 58, 80, 62, 81, 69, 80, 72, 62, 64, 63, 63, 63, 76, 35, 59, 76]
+```
 
 ## ML
 

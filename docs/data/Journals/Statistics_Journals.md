@@ -5106,6 +5106,26 @@ xychart-beta
     line [15, 18, 12, 16, 23, 9, 25, 13, 16, 3, 11, 50, 56, 121, 171, 137, 224]
 ```
 
+### EVOLS
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "EVOLS"
+    x-axis [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [20, 19, 21, 22, 24, 23, 22, 26, 26, 43, 53, 69, 56, 62, 131]
+    line [20, 19, 21, 22, 24, 23, 22, 26, 26, 43, 53, 69, 56, 62, 131]
+```
+
 ### FODM
 
 ```mermaid
@@ -5624,6 +5644,26 @@ xychart-beta
     y-axis "Number of Papers"
     bar [23, 23, 24, 25, 25, 24, 23, 25, 29, 36, 33, 25, 28, 30, 23, 33]
     line [23, 23, 24, 25, 25, 24, 23, 25, 29, 36, 33, 25, 28, 30, 23, 33]
+```
+
+### MIR
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "MIR"
+    x-axis [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [10, 27, 54, 55, 51, 58, 80, 62, 81, 69, 80, 72, 62, 64, 63, 63, 63, 76, 35, 59, 76]
+    line [10, 27, 54, 55, 51, 58, 80, 62, 81, 69, 80, 72, 62, 64, 63, 63, 63, 76, 35, 59, 76]
 ```
 
 ### ML
@@ -6148,6 +6188,26 @@ xychart-beta
     y-axis "Number of Papers"
     bar [7, 33, 9, 8, 7]
     line [7, 33, 9, 8, 7]
+```
+
+### ACISC
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "ACISC"
+    x-axis [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [7, 13, 12, 47, 19, 27, 7, 28, 26, 16, 3, 11, 34, 65, 36, 48]
+    line [7, 13, 12, 47, 19, 27, 7, 28, 26, 16, 3, 11, 34, 65, 36, 48]
 ```
 
 ### ADVS

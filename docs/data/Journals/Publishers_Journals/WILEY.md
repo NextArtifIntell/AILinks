@@ -32,6 +32,24 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[WILEY](https://www.wiley.com/)|[Applied Computational Intelligence and Soft Computing](https://onlinelibrary.wiley.com/journal/4795)|[Appl. Comput. Intell. Soft Comput.](https://onlinelibrary.wiley.com/page/journal/4795/homepage/overview)|[ACISC](https://onlinelibrary.wiley.com/loi/4795)|2009 -|False||4||3.0|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "ACISC"
+    x-axis [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [7, 13, 12, 47, 19, 27, 7, 28, 26, 16, 3, 11, 34, 65, 36, 48]
+    line [7, 13, 12, 47, 19, 27, 7, 28, 26, 16, 3, 11, 34, 65, 36, 48]
+```
+
 ## ADVS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
