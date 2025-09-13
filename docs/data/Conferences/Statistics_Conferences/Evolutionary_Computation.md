@@ -4,13 +4,13 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|ACM/SIGEVO Conference on Foundations of Genetic Algorithms|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## GECCO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|Genetic and Evolutionary Computation Conference|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|22/01/2025|**{{ diffDate('2025-01-22') }}**|[14/07/2025](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2025-07-14') }}**|Málaga, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -34,7 +34,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|Genetic and Evolutionary Computation Conference Companion|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|22/01/2025|**{{ diffDate('2025-01-22') }}**|[14/07/2025](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2025-07-14') }}**|Málaga, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -58,7 +58,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||15/01/2025|**{{ diffDate('2025-01-15') }}**|[08/06/2025](https://www.cec2025.org/)|**{{ diffDate('2025-06-08') }}**|Hangzhou, China|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2025](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2025-06-21') }}**|Maastricht|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---

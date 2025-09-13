@@ -30,13 +30,13 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|ACM/SIGEVO Conference on Foundations of Genetic Algorithms|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## GECCO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|Genetic and Evolutionary Computation Conference|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|22/01/2025|**{{ diffDate('2025-01-22') }}**|[14/07/2025](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2025-07-14') }}**|Málaga, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -60,7 +60,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|Genetic and Evolutionary Computation Conference Companion|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|22/01/2025|**{{ diffDate('2025-01-22') }}**|[14/07/2025](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2025-07-14') }}**|Málaga, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -120,7 +120,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|01/02/2025|**{{ diffDate('2025-02-01') }}**|[23/06/2025](https://acm-stoc.org/stoc2025/)|**{{ diffDate('2025-06-23') }}**|Prague, Czech Republic|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
+|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|||[22/06/2026](https://acm-stoc.org/stoc2026/)|**{{ diffDate('2026-06-22') }}**|Salt Lake City, Utah|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
 
 ## SoCC
 
