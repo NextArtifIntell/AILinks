@@ -24,11 +24,11 @@ xychart-beta
     line [215, 180, 177, 304, 363, 270, 333, 333, 329, 383, 277, 474, 674, 691, 786, 1102, 1343, 1865, 1961, 1624, 2021, 2866, 3361]
 ```
 
-## UIA
+## UAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UIA](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
+|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
 
 ## ECAI
 
@@ -150,9 +150,9 @@ config:
 ---
 xychart-beta
     title "AISTATS"
-    x-axis [2001, 2003, 2005, 2007, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2001, 2003, 2005, 2007, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [46, 44, 58, 86, 84, 126, 107, 158, 71, 122, 125, 164, 167, 216, 360, 423, 455, 492, 496, 547]
-    line [46, 44, 58, 86, 84, 126, 107, 158, 71, 122, 125, 164, 167, 216, 360, 423, 455, 492, 496, 547]
+    bar [46, 44, 58, 86, 84, 126, 107, 158, 71, 122, 125, 164, 167, 216, 360, 423, 455, 492, 496, 547, 583]
+    line [46, 44, 58, 86, 84, 126, 107, 158, 71, 122, 125, 164, 167, 216, 360, 423, 455, 492, 496, 547, 583]
 ```
 
